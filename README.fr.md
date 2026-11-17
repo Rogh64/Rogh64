@@ -1,18 +1,23 @@
-<img src="images/banner-en.png" width="100%">
+<img src="images/banner.png" width="100%">
 
-🇫🇷 [Français](README.md) | 🇬🇧 English
+🇫🇷 Français | 🇬🇧 [English](README.md)
 
-# <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="50"> About me...
+
+# <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="50"> À propos de moi...
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rogh64)
 
-My name is Yann Carpentier.
 
-I am a computer science teacher in France, currently working at the [University Institute of Technology of Bayonne](https://www.iutbayonne.univ-pau.fr/).
+Je m'appelle Yann Carpentier.
 
-I teach software development, algorithmics, systems, networks and the web, with a particular focus on code quality (design patterns, refactoring).
+Je suis enseignant en informatique en France, actuellement en poste à l'[Institut Universitaire de Technologie de Bayonne](https://www.iutbayonne.univ-pau.fr/).
 
-## Connect with me
+J'enseigne le développement, l'algorithmique, les systèmes, les réseaux et le web, avec une attention particulière à la qualité de développement (design patterns, refactoring).
+
+
+
+
+## Me contacter
 
 <p>
 <a style="text-decoration:none" href="https://www.linkedin.com/in/yanncarpentier/">
@@ -20,19 +25,9 @@ I teach software development, algorithmics, systems, networks and the web, with 
 </a>
 </p>
 
-<br>
-<table style="border-style: hidden;">
-<tr>
+## Quelques outils que j'utilise
 
-<td width="60%" valign="top">
-
-</td>
-
-<td width="40%" valign="top">
-
-## Some tools I work with
-
-### Languages
+### Langages
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -55,7 +50,7 @@ I teach software development, algorithmics, systems, networks and the web, with 
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
 
-### Dev tools
+### Outils de dev
 
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -65,18 +60,14 @@ I teach software development, algorithmics, systems, networks and the web, with 
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4B5563?style=flat&logo=github&logoColor=white"/>
 </p>
 
-### Environment
+### Environnement
 
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-CB8B00?style=flat&logo=linux&logoColor=white"/>
 </p>
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogh64&layout=compact&hide_border=true&langs_count=6"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
