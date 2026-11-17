@@ -67,4 +67,9 @@ J'enseigne le développement, l'algorithmique, les systèmes, les réseaux et le
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-CB8B00?style=flat&logo=linux&logoColor=white"/>
 </p>
 
+<p>
+  <img alt="Repos per language" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%"/>
+  <img alt="Most commit language" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%"/>
+</p>
+
 ---
