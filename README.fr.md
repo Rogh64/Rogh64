@@ -12,7 +12,7 @@ Je m'appelle Yann Carpentier.
 
 Je suis enseignant en informatique en France, actuellement en poste à l'[Institut Universitaire de Technologie de Bayonne](https://www.iutbayonne.univ-pau.fr/).
 
-J'enseigne le développement, l'algorithmique, les systèmes, les réseaux et le web, avec une attention particulière à la qualité de développement (design patterns, refactoring).
+J'enseigne le développement, l'algorithmique, les systèmes, les réseaux et le développement web, avec une attention particulière à la qualité de développement (design patterns, refactoring).
 
 
 
