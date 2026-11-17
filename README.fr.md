@@ -66,8 +66,4 @@ J'enseigne le développement, l'algorithmique, les systèmes, les réseaux et le
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-CB8B00?style=flat&logo=linux&logoColor=white"/>
 </p>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogh64&layout=compact&hide_border=true&langs_count=6"/>
-
 ---
